@@ -26,3 +26,12 @@ D:\Assignments\AutomationUITestingFramework\obj\Debug\AutomationUITestingFramewo
 D:\Assignments\AutomationUITestingFramework\obj\Debug\AutomationUITestingFramework.dll
 D:\Assignments\AutomationUITestingFramework\obj\Debug\AutomationUITestingFramework.pdb
 D:\Assignments\AutomationUITestingFramework\obj\Debug\AutomationUITestingFramework.csprojAssemblyReference.cache
+E:\NAB_Assignment_Final\AutomationUITestingFramework\bin\Debug\AutomationUITestingFramework.dll.config
+E:\NAB_Assignment_Final\AutomationUITestingFramework\bin\Debug\AutomationUITestingFramework.dll
+E:\NAB_Assignment_Final\AutomationUITestingFramework\bin\Debug\AutomationUITestingFramework.pdb
+E:\NAB_Assignment_Final\AutomationUITestingFramework\bin\Debug\WebDriver.dll
+E:\NAB_Assignment_Final\AutomationUITestingFramework\obj\Debug\AutomationUITestingFramework.csprojAssemblyReference.cache
+E:\NAB_Assignment_Final\AutomationUITestingFramework\obj\Debug\AutomationUITestingFramework.csproj.CoreCompileInputs.cache
+E:\NAB_Assignment_Final\AutomationUITestingFramework\obj\Debug\AutomationUITestingFramework.csproj.CopyComplete
+E:\NAB_Assignment_Final\AutomationUITestingFramework\obj\Debug\AutomationUITestingFramework.dll
+E:\NAB_Assignment_Final\AutomationUITestingFramework\obj\Debug\AutomationUITestingFramework.pdb

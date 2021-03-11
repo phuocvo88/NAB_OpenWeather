@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Assignments\\AutomationUITestingFramework\\AutomationUITestingFramework.csproj": {}
+    "E:\\NAB_Assignment_Final\\AutomationUITestingFramework\\AutomationUITestingFramework.csproj": {}
   },
   "projects": {
-    "D:\\Assignments\\AutomationUITestingFramework\\AutomationUITestingFramework.csproj": {
+    "E:\\NAB_Assignment_Final\\AutomationUITestingFramework\\AutomationUITestingFramework.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Assignments\\AutomationUITestingFramework\\AutomationUITestingFramework.csproj",
+        "projectUniqueName": "E:\\NAB_Assignment_Final\\AutomationUITestingFramework\\AutomationUITestingFramework.csproj",
         "projectName": "AutomationUITestingFramework",
-        "projectPath": "D:\\Assignments\\AutomationUITestingFramework\\AutomationUITestingFramework.csproj",
+        "projectPath": "E:\\NAB_Assignment_Final\\AutomationUITestingFramework\\AutomationUITestingFramework.csproj",
         "packagesPath": "C:\\Users\\P.Minh\\.nuget\\packages\\",
-        "outputPath": "D:\\Assignments\\AutomationUITestingFramework\\obj\\",
+        "outputPath": "E:\\NAB_Assignment_Final\\AutomationUITestingFramework\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
