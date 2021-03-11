@@ -42,25 +42,29 @@ namespace OpenWeather.OpenWeather.UITest
 
             //To obtain the current solution path/project path
 
-            string pth = Assembly.GetCallingAssembly().CodeBase;
+            string pth = Path.GetDirectoryName(Assembly.GetCallingAssembly().CodeBase);
 
             string actualPath = pth.Substring(0, pth.LastIndexOf("bin"));
 
             string projectPath = new Uri(actualPath).LocalPath;
 
-
-
-            //Append the html report file to current project path
-
-            string reportPath = projectPath + "Reports\\TestRunReport1.html";
+            string reportName = TestContext.CurrentContext.Test.MethodName;
+            //var now = string.Format("{0}_{1}", reportName.Replace(' ', '_'), DateTime.Now.ToString("yyyyMMddhhmmss"));
+            string now = DateTime.Now.ToString("ddMMyyyy");
+            string reportPath = projectPath + "Reports" + "\\" + reportName + "_" + now + ".html";
 
             //ExtentHtmlReporter html = new ExtentHtmlReporter(reportPath);
-            ExtentHtmlReporter html = new ExtentHtmlReporter(@"E:\NAB assignments\Reports\" + TestContext.CurrentContext.Test.MethodName + ".html");
+            //ExtentHtmlReporter html = new ExtentHtmlReporter(@"E:\NAB assignments\Reports\" + TestContext.CurrentContext.Test.MethodName + ".html");
 
+            ExtentHtmlReporter html = new ExtentHtmlReporter(reportPath);
+            html.Config.ReportName = reportName;
+            html.Config.DocumentTitle = reportName;
+
+            html.Config.Theme = AventStack.ExtentReports.Reporter.Configuration.Theme.Standard;
             extent = new ExtentReports();
-
             extent.AttachReporter(html);
-           // test = extent.CreateTest(TestContext.CurrentContext.Test.MethodName);
+
+            Console.WriteLine("");
 
 
         }
