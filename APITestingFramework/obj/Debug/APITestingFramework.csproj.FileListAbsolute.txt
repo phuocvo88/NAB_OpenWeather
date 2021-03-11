@@ -23,3 +23,9 @@ E:\NAB_Assignment_Final\APITestingFramework\obj\Debug\APITestingFramework.csproj
 E:\NAB_Assignment_Final\APITestingFramework\obj\Debug\APITestingFramework.csproj.CoreCompileInputs.cache
 E:\NAB_Assignment_Final\APITestingFramework\obj\Debug\APITestingFramework.dll
 E:\NAB_Assignment_Final\APITestingFramework\obj\Debug\APITestingFramework.pdb
+F:\ttttttttttt\APITestingFramework\bin\Debug\APITestingFramework.dll.config
+F:\ttttttttttt\APITestingFramework\bin\Debug\APITestingFramework.dll
+F:\ttttttttttt\APITestingFramework\bin\Debug\APITestingFramework.pdb
+F:\ttttttttttt\APITestingFramework\obj\Debug\APITestingFramework.csproj.CoreCompileInputs.cache
+F:\ttttttttttt\APITestingFramework\obj\Debug\APITestingFramework.dll
+F:\ttttttttttt\APITestingFramework\obj\Debug\APITestingFramework.pdb
