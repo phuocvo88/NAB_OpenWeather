@@ -1,0 +1,4 @@
+D:\Assignments\obj\Debug\OpenWeatherTesting.csprojAssemblyReference.cache
+D:\Assignments\obj\Debug\OpenWeatherTesting.csproj.CoreCompileInputs.cache
+D:\Assignments\obj\Debug\OpenWeatherAPI.exe
+D:\Assignments\obj\Debug\OpenWeatherAPI.pdb
